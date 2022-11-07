@@ -1,2 +1,2 @@
 # discordnuker
-discord nuker
+Discord Server Nuker By GALAXYXKEDİ
